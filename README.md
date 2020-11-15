@@ -1,2 +1,2 @@
 # PythonCode-Oneliner
-Kumpulan coding python hanya dengan satu baris code.
+Kumpulan code program python hanya dengan satu baris code.
